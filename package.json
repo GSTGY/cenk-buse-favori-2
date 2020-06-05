@@ -1,0 +1,30 @@
+{
+  "name": "cenk-buse-favori",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buse": "echo `Benim adim Buse`",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "GSTGY",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.17",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "nodemailer": "^6.4.8",
+    "webpack-cli": "^3.3.11"
+  },
+  "reposştory": {
+    "type":"git",
+    "url" : "https://github.com/GSTGY/cenk-buse-favori-2.git"
+  }
+
+}
